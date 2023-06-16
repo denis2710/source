@@ -10,6 +10,7 @@
     "test": "vitest --dom"
   },
   "dependencies": {
+    "@types/jest": "^29.5.2",
     "happy-dom": "^9.20.3",
     "vue": "^3.2.47"
   },
